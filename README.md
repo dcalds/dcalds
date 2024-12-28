@@ -37,21 +37,8 @@ Docker, AWS, CI/CD, Firebase
 
 ---
 
-## 🌟 Key Achievements
-
-- **Responsive Car Rental Platform**: Redesigned a responsive platform based on Figma prototypes, ensuring compatibility with mobile and PWA environments (with notification support). Refactored legacy code, improving maintainability and significantly enhancing development workflows.
-
-- **Fundraising Platform Optimization**: Improved user interfaces and streamlined experiences, boosting conversion rates and increasing user engagement.
-
-- **Modernized Legacy Codebases**: Upgraded outdated libraries and optimized resource-heavy scripts, achieving over **2x performance improvements** and reducing application load times.
-
----
-
 ## 🌍 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dcalds)  
 - 📫 Email: contato@danilocaldas.com
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcalds&show_icons=true&theme=radical)
