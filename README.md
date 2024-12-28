@@ -6,9 +6,7 @@ I'm an **Experienced Senior Software Engineer** with a BSc in Computer Engineeri
 
 With a strong foundation in **web technologies** and a focus on scalability, performance, and user experience, I’ve delivered solutions that enhance user engagement, improve system performance, and support business growth in **international markets**. 
 
-I thrive in bridging the gap between **design and development**, leveraging tools like **Figma** to create **intuitive, visually appealing interfaces** that align with business goals.
-
----
+I thrive in bridging the gap between **design and development**, leveraging tools like **Figma** to create **intuitive, visually stunning interfaces** that align with business goals.
 
 ## 📚 Industries & Expertise
 
@@ -16,10 +14,8 @@ I’ve worked on **international projects** across diverse industries, including
 
 - **Ecommerce**: Enhancing shopping experiences and system scalability  
 - **Fundraising**: Optimizing platforms to boost donor engagement  
-- **Car Rental**: Delivering responsive platforms and improved workflows  
-- **Organization Management**: Streamlining systems to support business operations
-
----
+- **Car Rental**: Delivering responsive platforms and improved workflows
+- **Medical**: Streamlining systems to support business operations
 
 ## 🛠️ My Tech Stack
 
@@ -34,8 +30,6 @@ PostgreSQL, SQLite, MySQL, Firestore, MongoDB
 
 **Architecture & Infrastructure**:  
 Docker, AWS, CI/CD, Firebase
-
----
 
 ## 🌍 Let’s Connect
 
